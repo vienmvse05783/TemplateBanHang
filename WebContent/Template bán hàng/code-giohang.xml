@@ -1,0 +1,4 @@
+<div class='bag'><a href='javascript:yourbag();' id='displayText'>
+  <span class='simpleCart_quantity' style='color:#f00;'>0</span> Sản phẩm<br/>
+<span class='simpleCart_finalTotal'>VND.000</span>
+</a></div>

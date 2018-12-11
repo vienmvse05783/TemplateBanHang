@@ -1,0 +1,57 @@
+<style>
+.block_content {
+background-color: #fff;
+padding: 5px;
+margin-bottom: 20px;
+}
+.item_block {
+border-bottom: 1px dotted silver;
+margin-bottom: 10px;
+height: 75px;
+}
+.b_thumb {
+float: left;
+width: 80px;
+height: 80px;
+}
+.b_info {
+padding-left: 95px;
+}
+.b_thumb img {
+width: 75px;
+height: 75px;
+}
+a img {
+border: none;
+}
+.b_info a {
+font-size: 0.875em;
+line-height: 1.4em;
+color: #34495e;
+display: block;
+margin-bottom: 6px;
+}
+.b_info p {
+color: #a80006;
+font-size: 13px;
+font-weight: normal;
+font-style: normal;
+}
+.b_info a:hover {
+font-size: 0.875em;
+line-height: 1.4em;
+color: #007DAD;
+text-decoration: underline;
+}
+
+a {
+/* color: #008cba; */
+text-decoration: none;
+line-height: inherit;
+}
+</style>
+<div class='block-rgt'>
+<div class='block_content'>
+<script src='/feeds/posts/default/-/Tin tức?max-results=5&amp;orderby=published&amp;alt=json-in-script&amp;callback=lft_product'></script>
+</div>
+</div>
